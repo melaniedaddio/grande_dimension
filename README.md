@@ -15,11 +15,6 @@ Développement d'un modèle de machine learning pour prédire les annulations de
 ## Utilisation
 Les principaux notebooks du projet :
 
-- **`EDA.ipynb`** : Analyse exploratoire des données (corrélations, traitement des variables, visualisations).
-- **`modele_regression_logistique.ipynb`** : Implémentation et évaluation d’un modèle de régression logistique.
-- **`modele_arbre_decision.ipynb`** : Construction et optimisation d’un arbre de décision.
-- **`modele_xgboost.ipynb`** : Modèle XGBoost optimisé, offrant les meilleures performances.
-
 ## Résultats
 - Comparaison de plusieurs modèles : Régression logistique, Forest, XGBoost.
 - Optimisation des hyperparamètres  et sélection du meilleur modèle (XGBoost).
