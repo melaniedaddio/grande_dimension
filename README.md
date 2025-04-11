@@ -12,9 +12,6 @@ Développement d'un modèle de machine learning pour prédire les annulations de
   - Segment de marché (`market_segment_type`)
 - **Format des données** : CSV, avec des variables numériques et catégorielles
 
-## Utilisation
-Les principaux notebooks du projet :
-
 ## Résultats
 - Comparaison de plusieurs modèles : Régression logistique, Forest, XGBoost.
 - Optimisation des hyperparamètres  et sélection du meilleur modèle (XGBoost).
