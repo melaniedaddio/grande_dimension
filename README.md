@@ -18,7 +18,8 @@ L’objectif est d’optimiser le **F1-score** pour minimiser les erreurs de cla
 ---
 
 ⚙️ **Utilisation**
-Les principaux notebooks du projet :
+
+Contenue notebook :
 - Analyse exploratoire des données
 - Traitement des données (encodage, gestion des valeurs manquantes)
 - Modélisation avec plusieurs algorithmes
