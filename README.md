@@ -1,9 +1,12 @@
-# Projet: Prévision des Annulations de Réservations – Groupe INN Hotels
+# Prévision des Annulations de Réservations – Groupe INN Hotels
 
-## Description
-Développement d'un modèle de machine learning pour prédire les annulations de réservations dans le groupe INN Hotels. L’objectif est d’optimiser le F1-score pour minimiser les erreurs de classification et améliorer la gestion des réservations.
+📌 **Description**  
+Développement d'un modèle de machine learning pour prédire les annulations de réservations dans le groupe INN Hotels.  
+L’objectif est d’optimiser le **F1-score** pour minimiser les erreurs de classification et améliorer la gestion des réservations.
 
-## Données
+---
+
+📊 **Données**
 - **Nombre d’observations** : 36 275
 - **Nombre de variables** : 18
 - **Variables influentes** :
@@ -11,6 +14,9 @@ Développement d'un modèle de machine learning pour prédire les annulations de
   - Type de pension (`meal_plan`)
   - Segment de marché (`market_segment_type`)
 - **Format des données** : CSV, avec des variables numériques et catégorielles
+
+## Utilisation
+Les principaux notebooks du projet :
 
 ## Résultats
 - Comparaison de plusieurs modèles : Régression logistique, Forest, XGBoost.
